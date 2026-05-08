@@ -1,8 +1,8 @@
 # Abdul Jawwad Mohammed
 
-Senior software engineer. 5+ years building production systems. Currently focused on production AI engineering — bringing the same engineering rigour to LLM systems that I've applied to distributed systems, APIs, and infrastructure over the past 5 years.
+Senior software engineer focused on production AI engineering — applying rigorous engineering discipline to LLM systems.
 
-Based in the UK.
+15 years of engineering experience across cloud-native software and safety-critical automotive systems. Based in the UK.
 
 ### What I'm working on
 
@@ -16,9 +16,11 @@ Current focus areas:
 
 ### Background
 
-Production software experience across distributed systems, API design, CI/CD, observability, and infrastructure-as-code — the foundations AI systems are built on.
+Most AI systems fail not at the model layer, but at evaluation, monitoring, and integration. That's the work I'm focused on now — bringing the engineering rigour I've applied across distributed systems, real-time constraints, and safety-critical software to a domain that desperately needs it.
 
-I'm applying that engineering judgement to a domain that needs it: most production AI systems fail not at the model layer, but at evaluation, monitoring, and integration.
+For full career history, see my [LinkedIn](https://www.linkedin.com/in/abdul-jawwad-mohammed/).
+
+### Find me
 
 ### Find me
 
